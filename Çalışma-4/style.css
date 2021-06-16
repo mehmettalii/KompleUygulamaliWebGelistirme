@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html{
+    font-size: 10px;
+}
+.navbar{
+    background-color: darkred;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+a i{
+    color: white;
+}
+.nav-item a{
+    font-size: 3rem;
+    margin-left: 2rem;
+}
+header{
+    padding-top: 8rem;
+}
+.jumbotron{
+    height: 35rem;
+}
+.jumbotron-img{
+    width: 25%;
+    float: left;
+}
+.jumbotron-img img{
+    max-height: 30rem;
+    border-radius: 50%;
+}
+.jumbotron-text{
+    width: 70%;
+    float: right;
+    font-size: 3rem;
+    font-family: 'Indie Flower', cursive;
+    font-style: italic;
+    text-align: center;
+    position: relative;
+    left: 2rem;
+    top: 4rem;
+}
+@media (max-width: 998px) {
+    .jumbotron-text {
+        font-size: 2rem;
+        width: 60%;
+    }
+}
+.card{
+    border: none;
+}
+.left{
+    float: left;
+}
+.card img{
+    max-height: 400px;
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 1rem;
+}
+.card-body{
+    background-color: rgb(233, 129, 129);
+    border-radius: 1rem;
+}
+.card-text{
+    font-family: 'Indie Flower', cursive;
+    font-size: 3rem;
+    font-weight: 600;
+    text-align: center;
+    padding: 1rem;
+}
+.right{
+    float: right;
+}
+.card-text-right{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    background-color: rgb(133, 131, 131);
+    padding: 1rem;
+    margin: 0px;
+    border-radius: 1rem;
+}
+footer a{
+    color: white;
+    font-size: 2.5rem;
+    padding-right: 10rem;
+    padding-left: 10rem;
+}
+@media (max-width: 998px) {
+    footer a{
+        font-size: 2rem;
+        padding: 5rem;
+    }
+}
+.list-group-item{
+    font-size: 3rem;
+    font-weight: bolder;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+.list-group-flush:last-child .list-group-item:last-child {
+    border-bottom: 1px solid  rgba(0,0,0,.125);
+}
+.list-group-flush:first-child .list-group-item:first-child {
+    border-top: 1px solid  rgba(0,0,0,.125);
+}
