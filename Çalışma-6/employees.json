@@ -1,0 +1,56 @@
+[
+    {
+        "firstName": "Albert",
+        "lastName": "Einstein",
+        "age": "32",
+        "retired": "false"
+    },
+    {
+        "firstName": "Mileva",
+        "lastName": "Maric",
+        "age": "32",
+        "retired": "false"
+    },
+    {
+        "firstName": "Nikola",
+        "lastName": "Tesla",
+        "age": "32",
+        "retired": "false"
+    },
+    {
+        "firstName": "Cahit",
+        "lastName": "Arf",
+        "age": "32",
+        "retired": "false"
+    },
+    {
+        "firstName": "Aziz",
+        "lastName": "Sancar",
+        "age": "32",
+        "retired": "false"
+    },
+    {
+        "firstName": "Oktay",
+        "lastName": "Sinanoğlu",
+        "age": "32",
+        "retired": "false"
+    },
+    {
+        "firstName": "Türkan",
+        "lastName": "Şoray",
+        "age": "32",
+        "retired": "false"
+    },
+    {
+        "firstName": "Cüneyt",
+        "lastName": "Arkın",
+        "age": "32",
+        "retired": "false"
+    },
+    {
+        "firstName": "Yaşar",
+        "lastName": "Kemal",
+        "age": "32",
+        "retired": "false"
+    }
+]
